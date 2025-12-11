@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LionsGamesStudio/DocumentsClub/blob/main/Club/Img/logo_lions_GS.png" width="20%" alt=".GITHUB-logo">
+  <img src="https://github.com/LionsGamesStudio/DocumentsClub/blob/main/Img/logo_lions_GS.png" width="20%" alt=".GITHUB-logo">
 </p>
 <p align="center">
     <h1 align="center">Lions Games Studio</h1>
